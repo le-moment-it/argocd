@@ -1,6 +1,6 @@
 {
     "externalRepoURL": "https://github.com/le-moment-it/argocd-applications.git",
     "valuesFiles": [
-        "helm/values.yaml"
+        "values.yaml"
     ]
 }
