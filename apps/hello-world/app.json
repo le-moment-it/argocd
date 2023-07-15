@@ -2,6 +2,5 @@
     "externalRepoURL": "https://github.com/le-moment-it/argocd-applications.git",
     "valuesFiles": [
         "values.yaml"
-    ],
-    "vaultCredentials": "external-vault-credentials"
+    ]
 }
