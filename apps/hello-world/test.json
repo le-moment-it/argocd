@@ -1,7 +1,0 @@
-{
-    "externalRepoURL": "https://github.com/example/externalRepo.git",
-    "valuesFiles": [
-        "test.yaml"
-    ],
-    "vaultCredentials": "external-vault-credentials"
-}
