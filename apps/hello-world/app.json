@@ -1,6 +1,1 @@
-{
-    "externalRepoURL": "https://github.com/le-moment-it/argocd.git",
-    "valuesFiles": [
-        "values.yaml"
-    ]
-}
+{}
