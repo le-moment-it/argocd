@@ -9,6 +9,8 @@ image:
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "7cf294f538d7d072cdb435c181614cc8223ebc95"
+  imagePullSecrets:
+    - ovh-docker-reg-cred
 
 imagePullSecrets: []
 nameOverride: ""
